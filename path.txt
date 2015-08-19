@@ -1,1 +1,1 @@
-\\11.0.0.20\\eli\\Documents\\test.txt
+\\11.0.0.20\pub\Documents\eli\test.txt
